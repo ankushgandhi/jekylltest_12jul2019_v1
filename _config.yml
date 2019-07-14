@@ -1,0 +1,6 @@
+paginate: 3
+baseurl: ""
+
+paginate_path: "/page:num/"
+plugins: [jekyll-paginate]
+permalink: /:title/
