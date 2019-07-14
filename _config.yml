@@ -1,5 +1,5 @@
 paginate: 3
-baseurl: ""
+baseurl: "jekylltest_12jul2019_v1"
 
 paginate_path: "/page:num/"
 plugins: [jekyll-paginate]
