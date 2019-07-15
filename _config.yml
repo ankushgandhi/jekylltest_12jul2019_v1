@@ -1,5 +1,5 @@
 paginate: 3
-baseurl: "jekylltest_12jul2019_v1"
+
 url: "http://eldoomx.xyz"
 
 paginate_path: "/page:num/"
